@@ -1,7 +1,7 @@
 library(shiny)
 
 ui <- fluidPage(
-  h3("App validação release - upload"),
+  h3("App validação release - [rel1] upload"),
   fileInput("foto", "Enviar imagem", accept = c("image/png", "image/jpeg")),
   actionButton("salvar", "Salvar"),
   tags$hr(),
