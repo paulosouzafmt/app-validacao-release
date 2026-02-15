@@ -1,0 +1,7 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# uploads do usuário (não versionar!)
+minhapp/app/www/uploads/
